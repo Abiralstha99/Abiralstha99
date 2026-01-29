@@ -16,7 +16,7 @@ Hi, I'm Abiral Shrestha, a Computer Science student at Gettysburg College (Class
 <h3 align="left">🌐 Let's Connect</h3>
 
 <div>
-  <a href="https://www.linkedin.com/in/abiral-shrestha/" target="_blank">
+  <a href="https://www.linkedin.com/in/abiral-shrestha-/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:shreab01@gettysburg.edu" target="_blank">
