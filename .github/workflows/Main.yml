@@ -23,9 +23,7 @@ jobs:
         uses: Platane/snk@v3
         with:
           github_user_name: ${{ github.repository_owner }}
-          outputs: output/snake.gif
-          palette: github-dark
-          color_snake: "#abd200"
+          gif_out_path: output/snake.gif
 
       - name: Deploy to output branch
         uses: crazy-max/ghaction-github-pages@v3
