@@ -3,7 +3,7 @@
 </h1>
 
 <p>
-Hi, I'm Abiral Shrestha, a Computer Science student at Gettysburg College (Class of 2028) with a minor in Mathematics. I enjoy building full-stack projects, solving problems, and exploring new technologies. My favorite part of programming is creating efficient solutions and building practical applications.</p>
+Hi, I'm Abiral Shrestha, a Computer Science student at Gettysburg College with a minor in Mathematics. I enjoy building full-stack projects, solving problems, and exploring new technologies. My favorite part of programming is creating efficient solutions and building practical applications.</p>
 
 ---
 
