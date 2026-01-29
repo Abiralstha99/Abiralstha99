@@ -1,5 +1,5 @@
 <h1>
-  <img src="https://readme-typing-svg.demolab.com?font=Righteous&size=35&pause=1000&color=00FF7F&width=500&height=60&lines=Hello+there!;I'm+Abiral+Shrestha;CS+@+Gettysburg+College;Interested+in+Full-Stack+%26+Web+Dev" />
+  <img src="https://readme-typing-svg.demolab.com?font=Righteous&size=35&pause=1000&color=00FF7F&width=500&height=60&lines=Hello+there!;I'm+Abiral+Shrestha;CS+@+Gettysburg+College;Interested+in+Full-Stack" />
 </h1>
 
 <p>
@@ -32,6 +32,6 @@ Hi, I'm Abiral Shrestha, a Computer Science student at Gettysburg College (Class
 
 ---
 
-<img src="https://raw.githubusercontent.com/Abiralstha99/Abiralstha99/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/Abiralstha99/Abiralstha99/output/snake.gif" alt="Snake animation" />
 
 ---
