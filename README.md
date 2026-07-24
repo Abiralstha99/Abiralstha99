@@ -7,7 +7,7 @@ Hi, I'm Abiral Shrestha — a rising junior studying Computer Science (Math mino
 </p>
 
 <p>
-I care about building practical full-stack apps and solid backends, and I'm increasingly drawn to AI/ML. Right now I'm learning WebSockets and looking for a software engineering internship.
+My primary technical interests are backend and full-stack development. I enjoy designing reliable systems, working with data, and translating real user needs into useful features.
 </p>
 
 - Currently learning: WebSockets
