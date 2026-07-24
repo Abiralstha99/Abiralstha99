@@ -16,6 +16,8 @@ My primary technical interests are backend and full-stack development. I enjoy d
 
 ---
 
+### Tech Stack & Tools
+
 ![Skills](https://skillicons.dev/icons?i=py,ts,js,java,react,nodejs,express,flask,fastapi,tailwind,postgres,mysql,redis,prisma,tensorflow,aws,git,docker)
 
 ---
